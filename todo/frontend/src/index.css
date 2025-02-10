@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #1A202C;
+  background-color: #F7FAFC;
+}
+
+.todo-heading {
+  font-size: 2rem;
+  color: #38B2AC;
+  margin-bottom: 1rem;
+}
